@@ -1,0 +1,93 @@
+.isblog{
+	margin-top: 480px;
+
+}
+.blog{
+	width: 1000px;
+	overflow: hidden;
+	margin-top: 20px;
+    margin-left: 260px;
+	background-color: #fff;
+}
+.blog ul{
+	list-style-type: none;
+}
+.blog ul li{
+	width: 100%;
+	padding: 20px;
+	overflow: hidden;
+	margin-top: 20px;
+}
+.blog-left{
+	float: left;
+	width: 680px;
+	overflow: hidden;
+}
+.blog-right{
+	width: 280px;
+	height: 200px;
+	float: left;
+	margin-left: 10px;
+}
+.blog-left img{
+	width: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	vertical-align: middle;
+}
+.blog-right img{
+	width: 280px;
+	height: 200px;
+}
+.title{
+	text-align: none;
+	font-size: 26px;
+}
+.blog-left p{
+	color: grey;
+}
+
+
+#buttom{
+	width: 100%;
+	background: #242424;
+	height: 180px;
+	margin-top: 100px;
+}
+#buttom-content{
+	width: 650px;
+	float: hidden;
+	margin: 0 auto;
+	color: #ccc;
+	height: 180px;
+}
+
+#content-left{
+	width: 280px;
+	float: left;
+	text-align: center;
+	margin-left: -50px;
+	margin-top: 15px;
+}
+#content-right{
+	width: 300px;
+	height: 120px;
+	float: right;
+	text-align: center;
+	margin-top: 110px;
+	margin-left: -80px;
+}
+#content-right p{
+	color: #ccc;
+}
+#content-right p a{
+	color: #ccc;
+}
+#content-right p a:hover{
+	color: #fff;
+}
+
+.isbuttom{
+	margin-top: 1460px;
+}
+
