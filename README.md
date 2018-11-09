@@ -8,6 +8,7 @@ DigitalMediaWeb
 网页意在展示班级风貌，所以设计美工会比较偏重一些
 
 网页地址：www.shenqihl.club
+
 前端：
 采用轻量级JQuery
 
